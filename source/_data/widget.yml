@@ -1,0 +1,10 @@
+home_widget:
+  - class_name: welcome
+    id_name: welcome
+    order: -1
+    name: 欢迎
+    icon: fas fa-envelope
+    icon_color: blue
+    url: http://baidu.com
+    background: '#fff'
+    html: '<img src="https://api.dzzui.com/api/ip" style="width:100%">'
