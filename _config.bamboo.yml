@@ -367,10 +367,10 @@ notice:
   title: '公告'
   background: 'url("https://img10.360buyimg.com/ddimg/jfs/t1/166587/8/21344/72069/6088c24fEda5fdeb6/f9730ab637b7ca47.png")' # url("xxx") or red or #000 or rgba() ..
   list: # list相当于数组对象，[{title:'xx',date: 'xx', url: 'xxx', color: 'red'}]根据自己实际情况，增加或者删除
-    # - title: '#博客更新到2.0了'
-    #   date: '2021-04-28'
-    #   url: '/archives'   # 可以为空, 也可以是本地页面地址如 '/archives'
-    #   color: red   # 字体颜色
+    - title: '#博客更新到1.0了'
+      date: '2023-03-3'
+      url: '/archives'   # 可以为空, 也可以是本地页面地址如 '/archives'
+      color: red   # 字体颜色
     # - title: '#新增 轮播图支持三种模式了，功能也增强了 ~'
     #   date: '2021-04-28'
     #   url: 'http://baidu.com'
@@ -460,10 +460,10 @@ gitalk:
   clientSecret:  #`Github Application clientSecret`
 
 # utterance 评论  官网：https://utteranc.es/, 建议用这个评论
-utterance:
+utterance: 
   on: true
   # 仓库名字，格式：你的用户 ID/ 仓库名称，如：yuang01/yuang01.github.io
-  repo: 
+  repo: keer6/keer6.github.io
   # 主题
   theme:
     light: github-light

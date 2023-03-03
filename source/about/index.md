@@ -11,7 +11,7 @@ bgImg: https://picx.zhimg.com/80/v2-85c31120acff76826ab53ea8934ef4bb_1440w.webp
 ---
 
 # 个人介绍
-博主: yuang01 | 性别: 男 | 邮箱: xxxx@aa.com
+博主: keer6 | 性别: 男 | 邮箱: xxxx@aa.com
 
 ## 我的书籍
 {% sitegroup %}
