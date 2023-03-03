@@ -49,7 +49,7 @@ sidebar:
   widget_library:
     side_blogger:
       on: true
-      avatar: http://api.btstu.cn/sjtx/api.php?lx=c1&format=images
+      avatar: https://api.r10086.com/img-api.php?type=动漫综合1
       shape: rectangle # circle, rectangle
       url: /about/
       title: 青墨书晚风
@@ -199,9 +199,9 @@ swiper:
   defaultVideoLoadingImg: 'https://img14.360buyimg.com/ddimg/jfs/t1/175057/18/19582/882056/60ee7ac8Ef0045710/202d2ad878684a3b.gif' # video loading img -- use .gif img, 视频预加载动画，使用gif图片作为loading，为空则视频没有预加载动画
   defaultTile: '青墨书晚风' # 标题
   defaultDesc: ['煮酒洗净尘嚣，论知交', '万般付之一笑，共偕老'] #描 述，例如 ['煮酒洗净尘嚣，论知交', '万般付之一笑，共偕老']
-  defaultLeftBtnText: '阅读文档' # 左边按钮文字, 空字符串则不显示
+  defaultLeftBtnText: '' # 左边按钮文字, 空字符串则不显示
   defaultLeftBtnLink: 'https://yuang01.gitee.io/2021/02/08/hexo-theme-bamboo-new/' # 左边按钮链接 
-  defaultRightBtnText: '下载主题' # 右边按钮的文字，空字符串则不显示
+  defaultRightBtnText: '' # 右边按钮的文字，空字符串则不显示
   defaultRightBtnLink: 'https://gitee.com/yuang01/hexo-theme-bamboo/repository/archive/dev.zip' # 右边的按钮的链接
   defaultDescTyped: true # defaultDesc文字是否开启打字特效  is typed
   defaultDescTypedSpeed: 100 # defaultDesc 打字速度, typed typeSpeed
