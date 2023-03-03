@@ -35,7 +35,7 @@ menu:
 # github地址, 头部导航右上角的github链接
 Github: 
   on: true
-  url: https://github.com/yuang01/hexo-theme-bamboo
+  url: https://github.com/keer6/keer6.github.io
 
 # 网站logo
 logo: /medias/logo.png # 为空则不显示
@@ -53,7 +53,7 @@ sidebar:
       shape: rectangle # circle, rectangle
       url: /about/
       title: 青墨书晚风
-      subtitle: 我是副标题
+      subtitle: 哎呀呀呀
       jinrishici: true # Poetry Today. You can set a string, and it will be displayed when loading fails.
       fontFammily: Titillium Web,'PingFang SC','Hiragino Sans GB','Microsoft JhengHei','Microsoft YaHei',sans-serif
       background: '#fff'
@@ -64,9 +64,9 @@ sidebar:
         - icon: fas fa-envelope
           url: mailto:me@xxx.com
         - icon: fab fa-github
-          url: https://github.com/yuang01/hexo-theme-bamboo
+          url: https://github.com/keer6/keer6.github.io
         - icon: fab fa-qq
-          url: tencent://AddContact/?fromId=50&fromSubId=1&subcmd=all&uin=你的qq号码
+          url: tencent://AddContact/?fromId=50&fromSubId=1&subcmd=all&uin=873675391
     # ---------------------------------------
     side_toc:
       on: true
