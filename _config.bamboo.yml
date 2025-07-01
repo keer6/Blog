@@ -66,7 +66,6 @@ sidebar:
         - icon: fab fa-github
           url: https://github.com/keer6/keer6.github.io
         - icon: fab fa-qq
-          url: tencent://AddContact/?fromId=50&fromSubId=1&subcmd=all&uin=873675391
     # ---------------------------------------
     side_toc:
       on: true
